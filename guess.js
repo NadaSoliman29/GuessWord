@@ -5,7 +5,7 @@ document.querySelector("h1").innerHTML = gameName;
 document.querySelector("footer").innerHTML = `${gameName} Game Created By Nada`;
 
 // setting game options 
-let numberOfTries = 8;
+let numberOfTries = 6;
 let numberOfLetters = 6;
 let currentTry = 1;
 let numberOfHints = 3;
